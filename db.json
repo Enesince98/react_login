@@ -1,0 +1,29 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "user": "json-server",
+      "pwd": "typicode"
+    },
+    {
+      "user": "asdasdsa",
+      "pwd": "Ennes1998!",
+      "id": 2
+    },
+    {
+      "user": "asdasdsa",
+      "pwd": "Ennes1998!",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
