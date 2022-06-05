@@ -1,11 +1,12 @@
 import React from "react";
 import { useRef, useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import {
   faCheck,
   faTimes,
   faInfoCircle,
 } from "@fortawesome/free-solid-svg-icons";
-import axios from "./api/axios";
+import axios from "../api/axios";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const USER_REGEX = /^(?=[a-zA-Z0-9._]{8,20}$)(?!.*[_.]{2})[^_.].*[^_.]$/;
 const PWD_REGEX =
@@ -207,8 +208,7 @@ const REGISTER_URL='/register';
       <p>
           Already registered?<br/>
           <span classNme="line">
-            {/*router link here */}
-              <a href="#">Sign In</a>
+          <Link to="/login">Sign In</Link>
           </span>
       </p>
     </section>
