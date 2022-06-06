@@ -92,12 +92,12 @@ const REGISTER_URL='/register';
   return (
     <>
     {success ?(
-        <secction>
+        <section>
             <h1>Success!</h1>
             <p>
                 <a href="#">Sign In</a>
             </p>
-        </secction>
+        </section>
     ):(
     <section>
       <p

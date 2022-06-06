@@ -1,153 +1,178 @@
 {
-  "register": [
+  "users": [
     {
       "id": 1,
-      "user": "json-server",
+      "username": "json-server",
       "pwd": "typicode"
     },
     {
-      "user": "asdasdsa",
+      "username": "asdasdsa",
       "pwd": "Ennes1998!",
       "id": 2
     },
     {
-      "user": "asdasdsa",
+      "username": "asdasdsa",
       "pwd": "Ennes1998!",
       "id": 3
     },
     {
-      "user": "asdsadAdsa",
+      "username": "asdsadAdsa",
       "pwd": "Ennes123!",
       "id": 4
+    },
+    {
+      "username": "asdasasdasd",
+      "pwd": "asdasdaA!!123123",
+      "id": 5
+    },
+    {
+      "username": "asdasdasdasd",
+      "pwd": "asdasdaA!!123123",
+      "id": 6
+    },
+    {
+      "username": "ASDASDSADASD",
+      "pwd": "ASDADasdas1232!!!",
+      "id": 7
     }
   ],
   "auth": [
     {
       "id": 1,
-      "user": "somecomment",
+      "username": "somecomment",
       "pwd": "asdas",
       "roles": 5150
     },
     {
-      "user": "sdfsd",
+      "username": "sdfsd",
       "pwd": "sadsa",
       "id": 2,
       "roles": 1548
     },
     {
-      "user": "asdas",
+      "username": "asdas",
       "pwd": "asdas",
       "id": 3
     },
     {
-      "user": "asdas",
+      "username": "asdas",
       "pwd": "asdas",
       "id": 4
     },
     {
-      "user": "asdasd",
+      "username": "asdasd",
       "pwd": "asdsa",
       "id": 5
     },
     {
-      "user": "asdasd",
+      "username": "asdasd",
       "pwd": "asdsa",
       "id": 6
     },
     {
-      "user": "asd",
+      "username": "asd",
       "pwd": "asd",
       "id": 7
     },
     {
-      "user": "asdasdsa",
+      "username": "asdasdsa",
       "pwd": "Ennes1998!",
       "id": 8
     },
     {
-      "user": "asdasdsa",
+      "username": "asdasdsa",
       "pwd": "adsds",
       "id": 9
     },
     {
-      "user": "sdfsd",
+      "username": "sdfsd",
       "pwd": "sadsa",
       "id": 10
     },
     {
-      "user": "asdasd",
+      "username": "asdasd",
       "pwd": "asdsad",
       "id": 11
     },
     {
-      "user": "sdfsd",
+      "username": "sdfsd",
       "pwd": "sadsa",
       "id": 12
     },
     {
-      "user": "asdasd",
+      "username": "asdasd",
       "pwd": "asdsad",
       "id": 13
     },
     {
-      "user": "somecomment",
+      "username": "somecomment",
       "pwd": "asdas",
       "id": 14
     },
     {
-      "user": "asdsad",
+      "username": "asdsad",
       "pwd": "asdsad",
       "id": 15
     },
     {
-      "user": "somecomment",
+      "username": "somecomment",
       "pwd": "asdas",
       "id": 16
     },
     {
-      "user": "asdsad",
+      "username": "asdsad",
       "pwd": "asdsadas",
       "id": 17
     },
     {
-      "user": "asdsad",
+      "username": "asdsad",
       "pwd": "asdsada",
       "id": 18
     },
     {
-      "user": "asdsad",
+      "username": "asdsad",
       "pwd": "asdasd",
       "id": 19
     },
     {
-      "user": "somecomment",
+      "username": "somecomment",
       "pwd": "asdas",
       "id": 20
     },
     {
-      "user": "sadasd",
+      "username": "sadasd",
       "pwd": "asdas",
       "id": 21
     },
     {
-      "user": "somecomment",
+      "username": "somecomment",
       "pwd": "asdas",
       "id": 22
     },
     {
-      "user": "asdasd",
+      "username": "asdasd",
       "pwd": "asdasd",
       "id": 23
     },
     {
-      "user": "asdsad",
+      "username": "asdsad",
       "pwd": "asdasd",
       "id": 24
     },
     {
-      "user": "asdsadAdsa",
+      "username": "asdsadAdsa",
       "pwd": "Ennes123!",
       "id": 25
+    },
+    {
+      "username": "asdsada",
+      "pwd": "sadad",
+      "id": 26
+    },
+    {
+      "username": "ASDSAAS",
+      "pwd": "ASDASDA",
+      "id": 27
     }
   ],
   "profile": {

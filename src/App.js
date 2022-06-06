@@ -26,7 +26,9 @@ function App() {
         <Route path="register" element={<Register />} />
         <Route path="linkpage" element={<LinkPage />} />
         <Route path="unauthorized" element={<Unauthorized />} />
-
+        {/*DENEME*/}
+        <Route path="admin" element={<Admin />} />
+        
         {/*Protected Routes*/}
         <Route element={<RequireAuth allowedRoles={[ROLES.User]} />}>
           <Route path="/" element={<Home />} />
@@ -37,9 +39,9 @@ function App() {
         </Route>
 
 
-        <Route element={<RequireAuth allowedRoles={[ROLES.Admin]} />}>
+        {/*<Route element={<RequireAuth allowedRoles={[ROLES.Admin]} />}>
           <Route path="admin" element={<Admin />} />
-        </Route>
+        </Route>*/}
 
         <Route element={<RequireAuth allowedRoles={[ROLES.Editor, ROLES.Admin]} />}>
           <Route path="lounge" element={<Lounge />} />
