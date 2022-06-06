@@ -1,26 +1,178 @@
 {
-  "register": [
+  "users": [
     {
       "id": 1,
-      "user": "json-server",
+      "username": "json-server",
       "pwd": "typicode"
     },
     {
-      "user": "asdasdsa",
+      "username": "asdasdsa",
       "pwd": "Ennes1998!",
       "id": 2
     },
     {
-      "user": "asdasdsa",
+      "username": "asdasdsa",
       "pwd": "Ennes1998!",
       "id": 3
+    },
+    {
+      "username": "asdsadAdsa",
+      "pwd": "Ennes123!",
+      "id": 4
+    },
+    {
+      "username": "asdasasdasd",
+      "pwd": "asdasdaA!!123123",
+      "id": 5
+    },
+    {
+      "username": "asdasdasdasd",
+      "pwd": "asdasdaA!!123123",
+      "id": 6
+    },
+    {
+      "username": "ASDASDSADASD",
+      "pwd": "ASDADasdas1232!!!",
+      "id": 7
     }
   ],
-  "comments": [
+  "auth": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "username": "somecomment",
+      "pwd": "asdas",
+      "roles": 5150
+    },
+    {
+      "username": "sdfsd",
+      "pwd": "sadsa",
+      "id": 2,
+      "roles": 1548
+    },
+    {
+      "username": "asdas",
+      "pwd": "asdas",
+      "id": 3
+    },
+    {
+      "username": "asdas",
+      "pwd": "asdas",
+      "id": 4
+    },
+    {
+      "username": "asdasd",
+      "pwd": "asdsa",
+      "id": 5
+    },
+    {
+      "username": "asdasd",
+      "pwd": "asdsa",
+      "id": 6
+    },
+    {
+      "username": "asd",
+      "pwd": "asd",
+      "id": 7
+    },
+    {
+      "username": "asdasdsa",
+      "pwd": "Ennes1998!",
+      "id": 8
+    },
+    {
+      "username": "asdasdsa",
+      "pwd": "adsds",
+      "id": 9
+    },
+    {
+      "username": "sdfsd",
+      "pwd": "sadsa",
+      "id": 10
+    },
+    {
+      "username": "asdasd",
+      "pwd": "asdsad",
+      "id": 11
+    },
+    {
+      "username": "sdfsd",
+      "pwd": "sadsa",
+      "id": 12
+    },
+    {
+      "username": "asdasd",
+      "pwd": "asdsad",
+      "id": 13
+    },
+    {
+      "username": "somecomment",
+      "pwd": "asdas",
+      "id": 14
+    },
+    {
+      "username": "asdsad",
+      "pwd": "asdsad",
+      "id": 15
+    },
+    {
+      "username": "somecomment",
+      "pwd": "asdas",
+      "id": 16
+    },
+    {
+      "username": "asdsad",
+      "pwd": "asdsadas",
+      "id": 17
+    },
+    {
+      "username": "asdsad",
+      "pwd": "asdsada",
+      "id": 18
+    },
+    {
+      "username": "asdsad",
+      "pwd": "asdasd",
+      "id": 19
+    },
+    {
+      "username": "somecomment",
+      "pwd": "asdas",
+      "id": 20
+    },
+    {
+      "username": "sadasd",
+      "pwd": "asdas",
+      "id": 21
+    },
+    {
+      "username": "somecomment",
+      "pwd": "asdas",
+      "id": 22
+    },
+    {
+      "username": "asdasd",
+      "pwd": "asdasd",
+      "id": 23
+    },
+    {
+      "username": "asdsad",
+      "pwd": "asdasd",
+      "id": 24
+    },
+    {
+      "username": "asdsadAdsa",
+      "pwd": "Ennes123!",
+      "id": 25
+    },
+    {
+      "username": "asdsada",
+      "pwd": "sadad",
+      "id": 26
+    },
+    {
+      "username": "ASDSAAS",
+      "pwd": "ASDASDA",
+      "id": 27
     }
   ],
   "profile": {
